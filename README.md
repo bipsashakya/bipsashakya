@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Firoj Miya]
+# 👋 Hey, I'm [Bipsa Shakya]
 
 ### 💻 Full Stack Developer | 🚀 Builder | 🌟 Open Source Enthusiast
  
