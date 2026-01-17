@@ -20,7 +20,7 @@ const aboutMe = {
     currentFocus: ["Web Development", "Research", "Open Source"],
     learning: ["AI/ML", "System Design", "DevOps"],
     hobbies: ["Coding", "Reading", "Gaming"],
-    motto: "Code. Build. Ship. Repeat."
+    motto: "Code. Build. Repeat."
 };
 ```
 
@@ -192,7 +192,7 @@ Fourth project showcasing different skills. What impact did it have?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipsa-shakya-125114353/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://127.0.0.1:8000/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipsashakya3@gmail.com)
 <!-- [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername) -->
 
